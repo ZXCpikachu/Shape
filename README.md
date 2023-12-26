@@ -14,7 +14,7 @@
 
 Скриншот диаграммы классов:
 
-![image](https://github.com/ZXCpikachu/Bmi/assets/144129320/de016e25-4817-4b1c-8f67-7343852391f3)
+![image](https://github.com/ZXCpikachu/Shape/blob/main/Сlasses.PNG)
 
 ## Зависимости
 
