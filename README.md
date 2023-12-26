@@ -8,7 +8,7 @@
 
 Скриншот приложения:
 
-![image](https://github.com/ZXCpikachu/Bmi/assets/144129320/26dc1632-56b5-4ad9-86c1-a8dc62c57d93](https://github.com/ZXCpikachu/Shape/blob/main/Shape1.PNG))
+![image](https://github.com/ZXCpikachu/Shape/blob/main/Shape1.PNG)
 
 ## Архитектура
 
